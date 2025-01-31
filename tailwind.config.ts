@@ -21,6 +21,9 @@ const config: Config = {
         lamaYellow: "#FAE27C",
         lamaYellowLight: "#FEFCE8",
       },
+      spacing: {
+        '25': '25px',
+      },
     },
   },
   plugins: [],
